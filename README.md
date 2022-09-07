@@ -16,9 +16,9 @@ This project is a drum kit having different types of drum which can also be cont
 
 ## Requirements
 
-- [x] (Javascript)
-- [x] (HTML)
-- [x] (CSS)
+- [x] Javascript
+- [x] HTML
+- [x] CSS
 
 
 ## Built With
